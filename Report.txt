@@ -1,0 +1,1217 @@
+locale: "es"
+description: "-\343\200\201CUI\nDNI 012345678-1\nREPUBLICA DEL PERU REGISTRO NACIONAL DE \304\260DENTIF\304\260CACION Y ESTADO CIVIL\nDOCUMENTO NACIONAL DE IDENTIDAD\nPrimer Apellido\nCAZULO\nFecha Inscripci\303\263n\n06 08 1997\nFecha Emisi\303\263n\n07 01 2010\nFecha Caducidad\n07 01 2018\nSegundo Apellido\nCAZULO\nPre Nombres\nJORGE LUIS\nNacimiento: Fecha y Ubigeo\n14 02 1982\nSexoEstado Civil\n012345\n6101138 F 1801075 PERKKK6\nCAZUL0< K UOR GE KLUIS\n"
+bounding_poly {
+  vertices {
+    x: 28
+    y: 19
+  }
+  vertices {
+    x: 738
+    y: 19
+  }
+  vertices {
+    x: 738
+    y: 443
+  }
+  vertices {
+    x: 28
+    y: 443
+  }
+}
+description: "-"
+bounding_poly {
+  vertices {
+    x: 596
+    y: 20
+  }
+  vertices {
+    x: 615
+    y: 20
+  }
+  vertices {
+    x: 615
+    y: 33
+  }
+  vertices {
+    x: 596
+    y: 33
+  }
+}
+description: "\343\200\201"
+bounding_poly {
+  vertices {
+    x: 617
+    y: 19
+  }
+  vertices {
+    x: 633
+    y: 19
+  }
+  vertices {
+    x: 633
+    y: 31
+  }
+  vertices {
+    x: 617
+    y: 31
+  }
+}
+description: "CUI"
+bounding_poly {
+  vertices {
+    x: 650
+    y: 20
+  }
+  vertices {
+    x: 678
+    y: 20
+  }
+  vertices {
+    x: 678
+    y: 33
+  }
+  vertices {
+    x: 650
+    y: 33
+  }
+}
+description: "DNI"
+bounding_poly {
+  vertices {
+    x: 547
+    y: 46
+  }
+  vertices {
+    x: 578
+    y: 46
+  }
+  vertices {
+    x: 578
+    y: 60
+  }
+  vertices {
+    x: 547
+    y: 60
+  }
+}
+description: "012345678-1"
+bounding_poly {
+  vertices {
+    x: 588
+    y: 40
+  }
+  vertices {
+    x: 738
+    y: 40
+  }
+  vertices {
+    x: 738
+    y: 60
+  }
+  vertices {
+    x: 588
+    y: 60
+  }
+}
+description: "REPUBLICA"
+bounding_poly {
+  vertices {
+    x: 28
+    y: 27
+  }
+  vertices {
+    x: 118
+    y: 26
+  }
+  vertices {
+    x: 118
+    y: 41
+  }
+  vertices {
+    x: 28
+    y: 42
+  }
+}
+description: "DEL"
+bounding_poly {
+  vertices {
+    x: 124
+    y: 27
+  }
+  vertices {
+    x: 154
+    y: 27
+  }
+  vertices {
+    x: 154
+    y: 41
+  }
+  vertices {
+    x: 124
+    y: 41
+  }
+}
+description: "PERU"
+bounding_poly {
+  vertices {
+    x: 160
+    y: 27
+  }
+  vertices {
+    x: 202
+    y: 27
+  }
+  vertices {
+    x: 202
+    y: 41
+  }
+  vertices {
+    x: 160
+    y: 41
+  }
+}
+description: "REGISTRO"
+bounding_poly {
+  vertices {
+    x: 207
+    y: 24
+  }
+  vertices {
+    x: 277
+    y: 23
+  }
+  vertices {
+    x: 277
+    y: 34
+  }
+  vertices {
+    x: 207
+    y: 35
+  }
+}
+description: "NACIONAL"
+bounding_poly {
+  vertices {
+    x: 283
+    y: 25
+  }
+  vertices {
+    x: 349
+    y: 24
+  }
+  vertices {
+    x: 349
+    y: 35
+  }
+  vertices {
+    x: 283
+    y: 36
+  }
+}
+description: "DE"
+bounding_poly {
+  vertices {
+    x: 354
+    y: 24
+  }
+  vertices {
+    x: 371
+    y: 24
+  }
+  vertices {
+    x: 371
+    y: 35
+  }
+  vertices {
+    x: 354
+    y: 35
+  }
+}
+description: "\304\260DENTIF\304\260CACION"
+bounding_poly {
+  vertices {
+    x: 375
+    y: 24
+  }
+  vertices {
+    x: 478
+    y: 23
+  }
+  vertices {
+    x: 478
+    y: 35
+  }
+  vertices {
+    x: 375
+    y: 36
+  }
+}
+description: "Y"
+bounding_poly {
+  vertices {
+    x: 483
+    y: 24
+  }
+  vertices {
+    x: 491
+    y: 24
+  }
+  vertices {
+    x: 491
+    y: 35
+  }
+  vertices {
+    x: 483
+    y: 35
+  }
+}
+description: "ESTADO"
+bounding_poly {
+  vertices {
+    x: 495
+    y: 23
+  }
+  vertices {
+    x: 548
+    y: 22
+  }
+  vertices {
+    x: 548
+    y: 33
+  }
+  vertices {
+    x: 495
+    y: 34
+  }
+}
+description: "CIVIL"
+bounding_poly {
+  vertices {
+    x: 553
+    y: 23
+  }
+  vertices {
+    x: 585
+    y: 23
+  }
+  vertices {
+    x: 585
+    y: 34
+  }
+  vertices {
+    x: 553
+    y: 34
+  }
+}
+description: "DOCUMENTO"
+bounding_poly {
+  vertices {
+    x: 213
+    y: 47
+  }
+  vertices {
+    x: 316
+    y: 47
+  }
+  vertices {
+    x: 316
+    y: 60
+  }
+  vertices {
+    x: 213
+    y: 60
+  }
+}
+description: "NACIONAL"
+bounding_poly {
+  vertices {
+    x: 321
+    y: 47
+  }
+  vertices {
+    x: 405
+    y: 47
+  }
+  vertices {
+    x: 405
+    y: 60
+  }
+  vertices {
+    x: 321
+    y: 60
+  }
+}
+description: "DE"
+bounding_poly {
+  vertices {
+    x: 412
+    y: 47
+  }
+  vertices {
+    x: 433
+    y: 47
+  }
+  vertices {
+    x: 433
+    y: 59
+  }
+  vertices {
+    x: 412
+    y: 59
+  }
+}
+description: "IDENTIDAD"
+bounding_poly {
+  vertices {
+    x: 439
+    y: 47
+  }
+  vertices {
+    x: 524
+    y: 47
+  }
+  vertices {
+    x: 524
+    y: 59
+  }
+  vertices {
+    x: 439
+    y: 59
+  }
+}
+description: "Primer"
+bounding_poly {
+  vertices {
+    x: 204
+    y: 67
+  }
+  vertices {
+    x: 247
+    y: 67
+  }
+  vertices {
+    x: 247
+    y: 86
+  }
+  vertices {
+    x: 204
+    y: 86
+  }
+}
+description: "Apellido"
+bounding_poly {
+  vertices {
+    x: 255
+    y: 67
+  }
+  vertices {
+    x: 307
+    y: 67
+  }
+  vertices {
+    x: 307
+    y: 86
+  }
+  vertices {
+    x: 255
+    y: 86
+  }
+}
+description: "CAZULO"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 90
+  }
+  vertices {
+    x: 257
+    y: 90
+  }
+  vertices {
+    x: 257
+    y: 101
+  }
+  vertices {
+    x: 203
+    y: 101
+  }
+}
+description: "Fecha"
+bounding_poly {
+  vertices {
+    x: 609
+    y: 76
+  }
+  vertices {
+    x: 651
+    y: 76
+  }
+  vertices {
+    x: 651
+    y: 87
+  }
+  vertices {
+    x: 609
+    y: 87
+  }
+}
+description: "Inscripci\303\263n"
+bounding_poly {
+  vertices {
+    x: 657
+    y: 76
+  }
+  vertices {
+    x: 734
+    y: 76
+  }
+  vertices {
+    x: 734
+    y: 89
+  }
+  vertices {
+    x: 657
+    y: 89
+  }
+}
+description: "06"
+bounding_poly {
+  vertices {
+    x: 630
+    y: 97
+  }
+  vertices {
+    x: 648
+    y: 97
+  }
+  vertices {
+    x: 648
+    y: 109
+  }
+  vertices {
+    x: 630
+    y: 109
+  }
+}
+description: "08"
+bounding_poly {
+  vertices {
+    x: 655
+    y: 97
+  }
+  vertices {
+    x: 672
+    y: 97
+  }
+  vertices {
+    x: 672
+    y: 108
+  }
+  vertices {
+    x: 655
+    y: 108
+  }
+}
+description: "1997"
+bounding_poly {
+  vertices {
+    x: 680
+    y: 97
+  }
+  vertices {
+    x: 716
+    y: 97
+  }
+  vertices {
+    x: 716
+    y: 108
+  }
+  vertices {
+    x: 680
+    y: 108
+  }
+}
+description: "Fecha"
+bounding_poly {
+  vertices {
+    x: 618
+    y: 122
+  }
+  vertices {
+    x: 661
+    y: 122
+  }
+  vertices {
+    x: 661
+    y: 133
+  }
+  vertices {
+    x: 618
+    y: 133
+  }
+}
+description: "Emisi\303\263n"
+bounding_poly {
+  vertices {
+    x: 667
+    y: 122
+  }
+  vertices {
+    x: 724
+    y: 122
+  }
+  vertices {
+    x: 724
+    y: 133
+  }
+  vertices {
+    x: 667
+    y: 133
+  }
+}
+description: "07"
+bounding_poly {
+  vertices {
+    x: 628
+    y: 143
+  }
+  vertices {
+    x: 646
+    y: 143
+  }
+  vertices {
+    x: 646
+    y: 154
+  }
+  vertices {
+    x: 628
+    y: 154
+  }
+}
+description: "01"
+bounding_poly {
+  vertices {
+    x: 652
+    y: 143
+  }
+  vertices {
+    x: 668
+    y: 143
+  }
+  vertices {
+    x: 668
+    y: 154
+  }
+  vertices {
+    x: 652
+    y: 154
+  }
+}
+description: "2010"
+bounding_poly {
+  vertices {
+    x: 675
+    y: 142
+  }
+  vertices {
+    x: 713
+    y: 142
+  }
+  vertices {
+    x: 713
+    y: 154
+  }
+  vertices {
+    x: 675
+    y: 154
+  }
+}
+description: "Fecha"
+bounding_poly {
+  vertices {
+    x: 610
+    y: 166
+  }
+  vertices {
+    x: 652
+    y: 166
+  }
+  vertices {
+    x: 652
+    y: 177
+  }
+  vertices {
+    x: 610
+    y: 177
+  }
+}
+description: "Caducidad"
+bounding_poly {
+  vertices {
+    x: 659
+    y: 166
+  }
+  vertices {
+    x: 734
+    y: 166
+  }
+  vertices {
+    x: 734
+    y: 177
+  }
+  vertices {
+    x: 659
+    y: 177
+  }
+}
+description: "07"
+bounding_poly {
+  vertices {
+    x: 625
+    y: 188
+  }
+  vertices {
+    x: 642
+    y: 188
+  }
+  vertices {
+    x: 642
+    y: 199
+  }
+  vertices {
+    x: 625
+    y: 199
+  }
+}
+description: "01"
+bounding_poly {
+  vertices {
+    x: 653
+    y: 188
+  }
+  vertices {
+    x: 669
+    y: 188
+  }
+  vertices {
+    x: 669
+    y: 199
+  }
+  vertices {
+    x: 653
+    y: 199
+  }
+}
+description: "2018"
+bounding_poly {
+  vertices {
+    x: 682
+    y: 188
+  }
+  vertices {
+    x: 719
+    y: 188
+  }
+  vertices {
+    x: 719
+    y: 199
+  }
+  vertices {
+    x: 682
+    y: 199
+  }
+}
+description: "Segundo"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 124
+  }
+  vertices {
+    x: 267
+    y: 124
+  }
+  vertices {
+    x: 267
+    y: 139
+  }
+  vertices {
+    x: 203
+    y: 139
+  }
+}
+description: "Apellido"
+bounding_poly {
+  vertices {
+    x: 271
+    y: 125
+  }
+  vertices {
+    x: 329
+    y: 125
+  }
+  vertices {
+    x: 329
+    y: 139
+  }
+  vertices {
+    x: 271
+    y: 139
+  }
+}
+description: "CAZULO"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 145
+  }
+  vertices {
+    x: 256
+    y: 145
+  }
+  vertices {
+    x: 256
+    y: 157
+  }
+  vertices {
+    x: 203
+    y: 157
+  }
+}
+description: "Pre"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 179
+  }
+  vertices {
+    x: 227
+    y: 179
+  }
+  vertices {
+    x: 227
+    y: 191
+  }
+  vertices {
+    x: 203
+    y: 191
+  }
+}
+description: "Nombres"
+bounding_poly {
+  vertices {
+    x: 231
+    y: 179
+  }
+  vertices {
+    x: 297
+    y: 179
+  }
+  vertices {
+    x: 297
+    y: 191
+  }
+  vertices {
+    x: 231
+    y: 191
+  }
+}
+description: "JORGE"
+bounding_poly {
+  vertices {
+    x: 202
+    y: 198
+  }
+  vertices {
+    x: 248
+    y: 198
+  }
+  vertices {
+    x: 248
+    y: 210
+  }
+  vertices {
+    x: 202
+    y: 210
+  }
+}
+description: "LUIS"
+bounding_poly {
+  vertices {
+    x: 253
+    y: 198
+  }
+  vertices {
+    x: 282
+    y: 198
+  }
+  vertices {
+    x: 282
+    y: 210
+  }
+  vertices {
+    x: 253
+    y: 210
+  }
+}
+description: "Nacimiento:"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 234
+  }
+  vertices {
+    x: 288
+    y: 234
+  }
+  vertices {
+    x: 288
+    y: 246
+  }
+  vertices {
+    x: 203
+    y: 246
+  }
+}
+description: "Fecha"
+bounding_poly {
+  vertices {
+    x: 293
+    y: 233
+  }
+  vertices {
+    x: 337
+    y: 233
+  }
+  vertices {
+    x: 337
+    y: 245
+  }
+  vertices {
+    x: 293
+    y: 245
+  }
+}
+description: "y"
+bounding_poly {
+  vertices {
+    x: 342
+    y: 236
+  }
+  vertices {
+    x: 349
+    y: 236
+  }
+  vertices {
+    x: 349
+    y: 248
+  }
+  vertices {
+    x: 342
+    y: 248
+  }
+}
+description: "Ubigeo"
+bounding_poly {
+  vertices {
+    x: 355
+    y: 234
+  }
+  vertices {
+    x: 405
+    y: 234
+  }
+  vertices {
+    x: 405
+    y: 248
+  }
+  vertices {
+    x: 355
+    y: 248
+  }
+}
+description: "14"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 253
+  }
+  vertices {
+    x: 216
+    y: 253
+  }
+  vertices {
+    x: 216
+    y: 264
+  }
+  vertices {
+    x: 203
+    y: 264
+  }
+}
+description: "02"
+bounding_poly {
+  vertices {
+    x: 224
+    y: 253
+  }
+  vertices {
+    x: 239
+    y: 253
+  }
+  vertices {
+    x: 239
+    y: 264
+  }
+  vertices {
+    x: 224
+    y: 264
+  }
+}
+description: "1982"
+bounding_poly {
+  vertices {
+    x: 247
+    y: 253
+  }
+  vertices {
+    x: 276
+    y: 253
+  }
+  vertices {
+    x: 276
+    y: 264
+  }
+  vertices {
+    x: 247
+    y: 264
+  }
+}
+description: "SexoEstado"
+bounding_poly {
+  vertices {
+    x: 203
+    y: 270
+  }
+  vertices {
+    x: 331
+    y: 270
+  }
+  vertices {
+    x: 331
+    y: 282
+  }
+  vertices {
+    x: 203
+    y: 282
+  }
+}
+description: "Civil"
+bounding_poly {
+  vertices {
+    x: 337
+    y: 270
+  }
+  vertices {
+    x: 366
+    y: 270
+  }
+  vertices {
+    x: 366
+    y: 282
+  }
+  vertices {
+    x: 337
+    y: 282
+  }
+}
+description: "012345"
+bounding_poly {
+  vertices {
+    x: 329
+    y: 251
+  }
+  vertices {
+    x: 372
+    y: 249
+  }
+  vertices {
+    x: 372
+    y: 263
+  }
+  vertices {
+    x: 330
+    y: 265
+  }
+}
+description: "6101138"
+bounding_poly {
+  vertices {
+    x: 46
+    y: 378
+  }
+  vertices {
+    x: 193
+    y: 378
+  }
+  vertices {
+    x: 193
+    y: 407
+  }
+  vertices {
+    x: 46
+    y: 407
+  }
+}
+description: "F"
+bounding_poly {
+  vertices {
+    x: 209
+    y: 378
+  }
+  vertices {
+    x: 213
+    y: 378
+  }
+  vertices {
+    x: 213
+    y: 407
+  }
+  vertices {
+    x: 209
+    y: 407
+  }
+}
+description: "1801075"
+bounding_poly {
+  vertices {
+    x: 225
+    y: 378
+  }
+  vertices {
+    x: 372
+    y: 378
+  }
+  vertices {
+    x: 372
+    y: 407
+  }
+  vertices {
+    x: 225
+    y: 407
+  }
+}
+description: "PERKKK6"
+bounding_poly {
+  vertices {
+    x: 384
+    y: 378
+  }
+  vertices {
+    x: 716
+    y: 378
+  }
+  vertices {
+    x: 716
+    y: 407
+  }
+  vertices {
+    x: 384
+    y: 407
+  }
+}
+description: "CAZUL0<"
+bounding_poly {
+  vertices {
+    x: 46
+    y: 417
+  }
+  vertices {
+    x: 144
+    y: 417
+  }
+  vertices {
+    x: 144
+    y: 443
+  }
+  vertices {
+    x: 46
+    y: 443
+  }
+}
+description: "K"
+bounding_poly {
+  vertices {
+    x: 158
+    y: 417
+  }
+  vertices {
+    x: 171
+    y: 417
+  }
+  vertices {
+    x: 171
+    y: 443
+  }
+  vertices {
+    x: 158
+    y: 443
+  }
+}
+description: "UOR"
+bounding_poly {
+  vertices {
+    x: 189
+    y: 417
+  }
+  vertices {
+    x: 270
+    y: 417
+  }
+  vertices {
+    x: 270
+    y: 443
+  }
+  vertices {
+    x: 189
+    y: 443
+  }
+}
+description: "GE"
+bounding_poly {
+  vertices {
+    x: 280
+    y: 417
+  }
+  vertices {
+    x: 315
+    y: 417
+  }
+  vertices {
+    x: 315
+    y: 443
+  }
+  vertices {
+    x: 280
+    y: 443
+  }
+}
+description: "KLUIS"
+bounding_poly {
+  vertices {
+    x: 334
+    y: 417
+  }
+  vertices {
+    x: 486
+    y: 417
+  }
+  vertices {
+    x: 486
+    y: 443
+  }
+  vertices {
+    x: 334
+    y: 443
+  }
+}
